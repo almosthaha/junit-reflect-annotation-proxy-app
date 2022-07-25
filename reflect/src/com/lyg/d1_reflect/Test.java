@@ -20,5 +20,9 @@ public class Test {
         Teacher teacher=new Teacher();
         Class c2=teacher.getClass();
         System.out.println(c2);
+
+        System.out.println("hello git");
+        System.out.println("hello git");
+        System.out.println("hello git");
     }
 }
