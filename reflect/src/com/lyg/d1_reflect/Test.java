@@ -25,5 +25,7 @@ public class Test {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("学习 git");
+        System.out.println("学习 git");
+        System.out.println("学习 git");
     }
 }
