@@ -28,6 +28,6 @@ public class Test {
         System.out.println("学习 git");
         System.out.println("学习 java");
         System.out.println("故事的小黄花，从出生那年就飘着");
-
+          System.out.println("秋刀鱼的滋味，猫和你都想要了解");
     }
 }
