@@ -4,6 +4,7 @@ package com.lyg.d1_reflect;
  * @author almost
  * @date 2022/7/25 14:32
  */
+
 public class Test {
 
     public static void main(String[] args) throws ClassNotFoundException {
@@ -24,5 +25,9 @@ public class Test {
 
         System.out.println("hello git");
         System.out.println("hello git");
-        System.out.println("故事的小黄花，从出生那年就飘着");
+        System.out.println("学习 git");
+        System.out.println("学习 git");
+        System.out.println("学习 git");
+
+    }
 }
